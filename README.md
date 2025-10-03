@@ -14,5 +14,6 @@ Além disso, possui requisições API Rest, padrão de camadas, criação de DTO
 
 <hr>
 <h3>Documentação do Sistema:</h3>
-<a href="https://drive.google.com/drive/folders/1WTBggtq38cLeeQosPHjuhjSLxa94Lmx_" target="_blank">Ler documentação e Protótipo</a>
+<a href="https://drive.google.com/drive/folders/1WTBggtq38cLeeQosPHjuhjSLxa94Lmx_" target="blank">Ler documentação e Protótipo</a>
+
 
